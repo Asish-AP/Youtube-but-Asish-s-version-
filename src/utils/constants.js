@@ -10,7 +10,7 @@ import LiveTvIcon from '@mui/icons-material/LiveTv';
 import SchoolIcon from '@mui/icons-material/School';
 import FaceRetouchingNaturalIcon from '@mui/icons-material/FaceRetouchingNatural';
 import CheckroomIcon from '@mui/icons-material/Checkroom';
-import GraphicEqIcon from '@mui/icons-material/GraphicEq';
+import FavoriteIcon from '@mui/icons-material/Favorite';
 import TheaterComedyIcon from '@mui/icons-material/TheaterComedy';
 import FitnessCenterIcon from '@mui/icons-material/FitnessCenter';
 import DeveloperModeIcon from '@mui/icons-material/DeveloperMode';
@@ -25,7 +25,7 @@ export const categories = [
     { name: 'ReactJS', icon: <CodeOffRoundedIcon />, },
     { name: 'Arijit Singh', icon: <MusicNoteIcon /> },
     { name: 'DSA', icon: <SchoolIcon />, },
-    { name: 'Podcast', icon: <GraphicEqIcon />, },
+    { name: 'Love', icon: <FavoriteIcon />, },
     { name: 'Movie', icon: <OndemandVideoIcon />, },
     { name: 'Gaming', icon: <SportsEsportsIcon />, },
     { name: 'Live', icon: <LiveTvIcon />, },
